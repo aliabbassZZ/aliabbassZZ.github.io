@@ -1,0 +1,6 @@
+@import url('../css/custom.css');
+
+.strong-form .form-field .after{
+    content: "\A" !important;
+}
+

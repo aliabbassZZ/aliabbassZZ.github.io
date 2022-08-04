@@ -1,0 +1,267 @@
+@font-face {
+    font-family: 'montserrat_alternatesregular';
+    src: url('fonts/montserratalternates-regular-webfont.woff2.html') format('woff2'),
+         url('fonts/montserratalternates-regular-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'latoregular';
+    src: url('fonts/lato-regular-webfont.woff2.html') format('woff2'),
+         url('fonts/lato-regular-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+h1, h2, h3, h4, h5, h6{ font-family: 'montserrat_alternatesregular';}
+h2{
+  font-family: "montserrat_alternatesregular";
+  font-weight: 600;
+
+}
+
+
+body{font-family: "latoregular";}
+.widget_ultimatumimage{
+  padding:5px 0;
+}
+
+
+.google-map .textwidget iframe{
+  border:none;
+  height:600px;
+  width:100%;
+}
+div#container-40.ult-container.container .row{background:#a80000; color:#fff;}
+
+.map-container #col-10-1{
+  padding:0;
+}
+form#ether-form-41 fieldset{
+  margin:0 auto;
+  width: 80%;
+}
+
+
+form#ether-form-41 input {
+  line-height:1.3em;
+}
+form#ether-form-41 textarea{
+  min-height:185px;
+}
+
+.sidr-toggler{background:#222; border-radius:5px; }
+.about-hubs{
+  font-weight: 600;
+  width:190px;
+}
+.fa-bars{color:#fff; padding:5px 10px;}
+.parallax{
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.testimonials{
+  width:80%;
+  margin:0 auto;
+  text-align:center;
+
+}
+.testimonials blockquote{
+  border:none;
+}
+.testimonials h3{font-family: 'latoregular';}
+.testimonials h3.element-title{font-family: 'latoregular'; font-weight: 600; background:none;
+color:#fff;
+text-transform: uppercase;
+text-align: center;
+font-size: 30px;}
+.testimonials blockquote h3{
+  font-size:24px;
+}
+.testimonials .testimonial-name{font-family: 'latoregular'; font-style: italic;}
+
+.ether-form{
+  margin:0 !important;
+}
+#contact-form-header{
+  color: #a80616;
+  font-size: 24px;
+  text-align:center;
+  margin:0 auto;
+  font-family: 'montserrat_alternatesregular';
+  width:200px;
+  text-align:center;
+  margin:0 auto;}
+.contact-container #col-18-1 {
+  padding:0;
+}
+#container-10{
+  border:none;
+}
+.form-header-row{
+  margin-bottom:0px;
+}
+
+#container-20 #col-20-1{padding-left:0; padding-right:0;}
+
+.flexslider{margin:0;}
+
+
+
+.call-quote-container{ padding-left:0px; }
+.call-quote-header p:first-child{
+  color:#a80616;
+  font-weight: 600;
+  text-align:center;
+}
+.call-quote-header p, .call-quote-header p:first-child a{
+  color:#a80616 ;
+}
+.call-quote-header p:last-child{
+   text-align:center;
+}
+.call-quote-header p:last-child a{
+  color:#0a25b4;
+  font-weight: 600;
+  text-align:center;
+}
+.logo-tablet {
+	width:33%;
+	float:left;
+}
+.call-quote-tablet {
+	width:66%;
+	float:left;
+	padding-top:10%;
+}
+
+
+.flex-control-paging li a{
+  background:#fff;
+  background:none;
+  box-shadow:none;
+  width:17px;
+  height: 17px;
+  border-radius: 10px;
+  margin-right:5px;
+  -webkit-border-radius: 10px;
+  -moz-border-radius: 10px;
+  background-color:#fff;
+  }
+.flex-control-paging li a.flex-active{
+    background: #a80000;
+
+}
+
+
+
+
+
+.element-title, .element-title a,
+.element-title a:hover,
+.element-title a:visited {
+    text-indent: 10px;
+}
+
+a.recentlink {
+  color: #020202;
+}
+
+.recentinner {
+  border-bottom: 1px solid #EFEFEF;
+}
+
+.footerRow,
+.footerRow .ult_social,
+.horizontal-menu  {
+  text-align:center !important;
+}
+.ult_social a {
+  margin: 0px 10px;
+}
+.horizontal-menu {
+  width: 100%;
+}
+.horizontal-menu ul li {
+  float: none !important;
+  display: inline;
+}
+#wpmtst_submit_testimonial{ background-color: #0a25b4;
+    border-radius:5px;
+    color: #ffffff;
+    width: 180px;
+    }
+  input, button, select, textarea{border-radius:5px; border:none;line-height: 1.4em;
+  padding: 0.5em 1em;}
+.strong-view.default .testimonial-inner{border:none;}
+.google-maps {
+        position: relative;
+        padding-bottom: 60%; // This is the aspect ratio
+        height: 0;
+        overflow: hidden;
+		max-width:100%;
+    }
+    .google-maps iframe {
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100% !important;
+        height: 100% !important;}
+.footwrapper .footer-menu *,
+.footwrapper .company-info *{
+font-family:"montserrat_alternatesregular";}
+
+.footer-menu, .company-info{
+  margin-top:30px;
+}
+.vertical-menu a {
+  padding:5px 0;
+}
+.vertical-menu ul ul {
+  padding:0px 0;
+
+}
+
+.fueled{
+ text-align:right;
+ padding-right:50px;
+}
+.copyright{
+  padding-left:28px;
+}
+.footer-menu{
+  padding-left:50px;
+}
+.social a{
+   color:#3b579d !important;
+  }
+.screen-size-phone .company-info{
+	text-align:center;
+}
+.screen-size-phone .fueled,.screen-size-phone .copyright {
+	text-align:center;
+	padding:0;
+}
+.screen-size-tablet .footer-left, .screen-size-tablet .copyright{
+	width: 50%;
+	float:left;
+}
+.screen-size-tablet .footer-right{
+	width: 40%;
+	float:right;
+
+}
+.screen-size-tablet .fueled {
+	width: 50%;
+	float:right;
+	text-align:right;
+}
+
+.contact-container{
+	min-height:440px !important;
+}
